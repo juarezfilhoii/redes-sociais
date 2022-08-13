@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right,#F2D8C2,#f2d8c24d);
+}
+
+main{
+    background-color: rgb(253, 253, 253);
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #0059ce79;
+}
+h1{
+    text-align: center;
+    color: #A66A5D;
+    text-shadow: 1px 1px 2px #a880766b;
+}
+
+h2{
+    color: #A66A5D;
+}
+
+p{
+    text-align: justify;
+}
