@@ -36,3 +36,16 @@ img#perfil{
     display: block;
     margin: 0px auto;
    }
+
+a{
+    font-weight: bolder;
+    color: #A66A5D;
+}
+
+a:visited{
+    color: #a58983;
+}
+
+a:hover{
+    color: #613f38;
+}
