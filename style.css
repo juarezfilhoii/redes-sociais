@@ -49,3 +49,19 @@ a:visited{
 a:hover{
     color: #613f38;
 }
+
+li#instagram{
+    list-style-image: url(imagens/instagram.png);
+}
+li#facebook{
+    list-style-image: url(imagens/facebook.png);
+}
+li#linkedin{
+    list-style-image: url(imagens/linkedin.png);
+}
+li#twitter{
+    list-style-image: url(imagens/twitter.png);
+}
+li#github{
+    list-style-image: url(imagens/github.png);
+}
